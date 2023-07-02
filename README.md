@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sonianish441@gmail.com**
 
-- 📄 Know about my experiences [https://sonianish002.github.io/Anish-s-own-website/](https://sonianish002.github.io/Anish-s-own-website/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/anishsoni/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
