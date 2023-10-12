@@ -26,11 +26,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.php.net/" target="_blank"> <img align="left" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="php" height="42px"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" height ="42px" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"> </a>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="sql" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="SQL" height ="42px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"></a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" height ="42px" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"> </a>
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind" height ="42px" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
@@ -58,7 +58,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/anishsoni29/Face-Detection-Attendance-System" target="_blank"> <img alt="face-detection" src="https://blog.mantratec.com/Images/post-img/all_post_in_side_img/2022/Benefits-of-facial-recognition-attendance-system.png" height="68" align="left"> </a>
+<a href="https://github.com/anishsoni29/Data-Analysis/tree/main/Resume%20Screener" target="_blank"> <img alt="resume_scanner" src="https://github.com/anishsoni29/anishsoni29/blob/main/assets/resume_scanner.png"  height="68" align="left"> </a>
+<a href="https://github.com/anishsoni29/Major-Projects/tree/main/Credit%20Card%20Risk%20Assessment" target="_blank"> <img alt="credit_risk_assessment" src="https://github.com/anishsoni29/anishsoni29/blob/main/assets/credit_risk_assessment.png" height="55px" width="65px" align="left"> </a>
+<a href="https://github.com/anishsoni29/Major-Projects/tree/main/Algorithmic%20Trading%20using%20Python" target="_blank"> <img alt="arithematic_trading" src="https://github.com/anishsoni29/anishsoni29/blob/main/assets/python_trading.png" height="68" align="left"> </a>
