@@ -16,7 +16,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🤝 &nbsp; I’m looking to collaborate on [face-detection-attendance-system](https://github.com/anishsoni29/Face-Detection-Attendance-System)
 - 🌱 &nbsp; I’m currently learning SQL; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/anishsoni29?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 🎨 &nbsp; Using [Figma](https://www.figma.com/file/nREWw4GJZ6hRXxMrIlNy8X/Nike-Website-UI-Design?type=design&node-id=0-1&mode=design&t=Yo4LJL36gHwE8jIB-0) I made 👉
 - 💬 &nbsp; Ask me about anything tech and finance related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/anishsoni/)
 - 📝 &nbsp; Checkout my [resume](assets/resume_anish.pdf)
