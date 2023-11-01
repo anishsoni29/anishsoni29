@@ -19,7 +19,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/anishsoni29?tab=repositories)
 - 🎨 &nbsp; Using [Figma](https://www.figma.com/file/nREWw4GJZ6hRXxMrIlNy8X/Nike-Website-UI-Design?type=design&node-id=0-1&mode=design&t=Yo4LJL36gHwE8jIB-0) I made 👉
 - 💬 &nbsp; Ask me about anything tech and finance related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/anishsoni/) <img src ="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" size = 120px>
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/anishsoni/) <img src ="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height = "120px">
 - 📝 &nbsp; Checkout my [resume](assets/resume_anish.pdf)
 - 📚 &nbsp; I enjoy bike rides, photography, gaming, reading, and traveling when free. Checkout my [page](https://www.instagram.com/depolarised_/) to see the world from my eyes!
 
