@@ -21,7 +21,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 💬 &nbsp; Ask me about anything tech and finance related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/anishsoni/)
 - 📝 &nbsp; Checkout my [resume](assets/resume_anish.pdf)
-- 📚 &nbsp; I enjoy traveling, photography,reading and playing games when I'm free. Checkout my [page](https://www.instagram.com/depolarised_/) to see the world from my eyes!
+- 📚 &nbsp; I enjoy traveling, photography, reading, and playing games when free. Check out my [page](https://www.instagram.com/depolarised_/) to see the world from my eyes!
 
 <br>
 
