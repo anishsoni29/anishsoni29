@@ -44,7 +44,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" align="left" alt="Docker" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img align="left" alt="Flask" height ="42px" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"></a>
-<a href="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" target="_blank"> <img align="left" alt="Tableau" height ="42px" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"></a>
+<a href="https://public.tableau.com/app/discover" target="_blank"> <img align="left" alt="Tableau" height ="42px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg"></a>
 
 <br>
 
