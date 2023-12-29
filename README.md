@@ -9,6 +9,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVzcXYyaDlqZzd5NmpzdThoNHljM3k2NXl1bWsyYTJmNW9teHJoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="360px"/>
+
 
 ### 🧐 More About Me:
 
