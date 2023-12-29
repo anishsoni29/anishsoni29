@@ -14,7 +14,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Prediction of Deforestation in Developed Nations**
+- 🔭 &nbsp; I’m currently working on **System Design and DevOps**
 - 🤝 &nbsp; I’m looking to collaborate on [face-detection-attendance-system](https://github.com/anishsoni29/Face-Detection-Attendance-System)
 - 🌱 &nbsp; I’m currently learning SQL and ML; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/anishsoni29?tab=repositories)
