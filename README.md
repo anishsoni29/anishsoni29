@@ -48,7 +48,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" height ="42px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg"></a>
 <br>
 
-
 ### 📊 Github Stats
 
 [![](https://raw.githubusercontent.com/anishsoni29/Anish/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
