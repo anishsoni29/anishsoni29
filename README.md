@@ -4,7 +4,6 @@
 <a href='https://twitter.com/anishsoni29'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/anishsoni'><img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Data Analyst 📈, ML Engineer 🤖 or Designer 🎨), depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool projects 🛠️. 
 <br/>
 <br/>
@@ -46,8 +45,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" align="left" alt="Docker" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" height ="42px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg"></a>
+
 <br>
-</br>
 
 ### 📊 Github Stats
 
