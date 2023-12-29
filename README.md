@@ -48,8 +48,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" height ="42px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg"></a>
 <a href="https://www.postman.com/" target="_blank"> <img align="left" alt="Postman" height ="42px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img align="left" alt="Flask" height ="42px" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"></a>
-<a href="https://public.tableau.com/app/discover" target="_blank"> <img align="left" alt="Tableau" height ="42px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg"></a>
-
 <br>
 
 
