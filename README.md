@@ -4,7 +4,7 @@
 <a href='https://twitter.com/anishsoni29'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/anishsoni'><img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web  🌐, Data Analyst 📈, ML Engineer 🤖 or Designer 🎨), depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool projects 🛠️. 
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Data Analyst 📈, ML Engineer 🤖 or Designer 🎨), depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool projects 🛠️. 
 <br/>
 <br/>
 
