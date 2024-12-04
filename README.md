@@ -21,6 +21,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/anishsoni/)
 - 📝 &nbsp; Checkout my [resume](assets/resume_anish.pdf)
 - 📚 &nbsp; I enjoy traveling, photography, reading, and playing games when free. Check out my [page](https://www.instagram.com/depolarised_/) to see the world from my eyes!
+- 🏀 &nbsp; As of now, I'm looking for an internship opportunity. If you need some helping hands, I'm here!
 
 <br>
 
