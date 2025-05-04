@@ -19,7 +19,7 @@
 * 🧠 Love talking about **Tech**, **Finance**, and **Travel**
 * 🌍 Sharing the world through my eyes on [depolarised](https://www.instagram.com/depolarised_/)
 * 🗂️ Explore my projects on [GitHub](https://github.com/anishsoni29?tab=repositories)
-* 📄 Here’s my [resume](assets/resume_anish.pdf) if you're curious!
+* 📄 Here’s my [resume](https://www.anishsoni.in/resume_anish_soni.pdf) if you're curious!
 * 📬 Reach out on [LinkedIn](https://www.linkedin.com/in/anishsoni/)
 
 
@@ -31,6 +31,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://reactnative.dev/" target="_blank"> <img align="left" alt="React Native" height ="42px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png"></a>
+<a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" height ="42px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg"></a>
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img src="https://camo.githubusercontent.com/f88b677ff3ec3c33f3bcce9db1d969417cf1a8b4fcf9303aad5deaff626cc4b8/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d6577474f436c55746d46583426666f726d61743d706e6726636f6c6f723d303030303030" align="left" alt="Flask" height='42px'/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt="mysql" height='42px'/> </a>
 <a href="https://www.php.net/" target="_blank"> <img align="left" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="php" height="42px"/> </a> 
@@ -48,7 +49,6 @@
 <a href="https://www.postman.com/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" align="left" alt="Postman" height='42px'/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://camo.githubusercontent.com/642a86e237f50c880c0da224a33e72abb14d3ee449a4ed738ad4fc0919dc5d81/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d333330333926666f726d61743d706e6726636f6c6f723d303030303030" align="left" alt="aws" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-<a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" height ="42px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg"></a>
 
 <br>
 
