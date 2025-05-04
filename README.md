@@ -4,22 +4,24 @@
 <a href='https://twitter.com/anishsoni29'><img align='left' alt="Twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/anishsoni'><img alt="Kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Data Analyst 📈, ML Engineer 🤖 or a Designer 🎨), depending on what the project requires. I love exploring new tech stacks 💻 and leveraging them to build cool projects 🛠️. 
-<br/>
+🔧 I’m a versatile developer with a knack for blending design, code, and data into impactful products. Whether it’s Full Stack Web Development, App Development (React Native), Data Analysis or Creative Design, I adapt fast and deliver with passion.
 <br/>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnVzcXYyaDlqZzd5NmpzdThoNHljM3k2NXl1bWsyYTJmNW9teHJoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="360px"/>
 
+<br/>
 
-### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently learning **DSA and System Design**
-- 🤝 &nbsp; Available for freelancing opportunities.
-- 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/anishsoni29?tab=repositories)
-- 🏎️ &nbsp; Ask me anything about Tech, Finance and Travel!
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/anishsoni/)
-- 📝 &nbsp; Checkout my [resume](assets/resume_anish.pdf)
-- 📚 &nbsp; I enjoy traveling, photography, reading, and lifting iron when free. Check out my [page](https://www.instagram.com/depolarised_/) to see the world from my eyes!
+### 🎒 About Me
+
+* 🔍 Currently diving deeper into **Data Structures, Algorithms**, and **System Design**
+* 🛠️ Available for **freelance** or collaboration opportunities
+* 🧠 Love talking about **Tech**, **Finance**, and **Travel**
+* 🌍 Sharing the world through my eyes on [depolarised](https://www.instagram.com/depolarised_/)
+* 🗂️ Explore my projects on [GitHub](https://github.com/anishsoni29?tab=repositories)
+* 📄 Here’s my [resume](assets/resume_anish.pdf) if you're curious!
+* 📬 Reach out on [LinkedIn](https://www.linkedin.com/in/anishsoni/)
+
 
 <br>
 
@@ -28,6 +30,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://reactnative.dev/" target="_blank"> <img align="left" alt="React Native" height ="42px" src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png"></a>
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img src="https://camo.githubusercontent.com/f88b677ff3ec3c33f3bcce9db1d969417cf1a8b4fcf9303aad5deaff626cc4b8/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d6577474f436c55746d46583426666f726d61743d706e6726636f6c6f723d303030303030" align="left" alt="Flask" height='42px'/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt="mysql" height='42px'/> </a>
 <a href="https://www.php.net/" target="_blank"> <img align="left" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="php" height="42px"/> </a> 
