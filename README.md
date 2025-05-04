@@ -13,20 +13,23 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently learning **System Design and DevOps**
-- 🤝 &nbsp; I’m looking to collaborate on [face-detection-attendance-system](https://github.com/anishsoni29/Face-Detection-Attendance-System)
+- 🔭 &nbsp; I’m currently learning **DSA and System Design**
+- 🤝 &nbsp; Available for freelancing opportunities.
 - 👨🏻‍💻 &nbsp; Most of my projects are available [here](https://github.com/anishsoni29?tab=repositories)
-- 🏎️ &nbsp; Ask me anything about Tech and Finance!
-- 🎨 &nbsp; Using [Figma](https://www.figma.com/file/nREWw4GJZ6hRXxMrIlNy8X/Nike-Website-UI-Design?type=design&node-id=0-1&mode=design&t=Yo4LJL36gHwE8jIB-0) I made 👉
+- 🏎️ &nbsp; Ask me anything about Tech, Finance and Travel!
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/anishsoni/)
 - 📝 &nbsp; Checkout my [resume](assets/resume_anish.pdf)
-- 📚 &nbsp; I enjoy traveling, photography, reading, and playing games when free. Check out my [page](https://www.instagram.com/depolarised_/) to see the world from my eyes!
-- 🏀 &nbsp; As of now, I'm looking for an internship opportunity. If you need some helping hands, I'm here!
+- 📚 &nbsp; I enjoy traveling, photography, reading, and lifting iron when free. Check out my [page](https://www.instagram.com/depolarised_/) to see the world from my eyes!
 
 <br>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img src="https://camo.githubusercontent.com/f88b677ff3ec3c33f3bcce9db1d969417cf1a8b4fcf9303aad5deaff626cc4b8/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d6577474f436c55746d46583426666f726d61743d706e6726636f6c6f723d303030303030" align="left" alt="Flask" height='42px'/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt="mysql" height='42px'/> </a>
 <a href="https://www.php.net/" target="_blank"> <img align="left" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" alt="php" height="42px"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" height ="42px" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"> </a>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
@@ -34,14 +37,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind" height ="42px" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" alt="mysql" height='42px'/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://jupyter.org/" target="_blank"> <img align="left" alt="Jupyter-Notebook" height ="42px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" align="left" alt="Docker" height='42px'/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" align="left" alt="Kubernetes" height='42px'/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" align="left" alt="Postman" height='42px'/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://camo.githubusercontent.com/642a86e237f50c880c0da224a33e72abb14d3ee449a4ed738ad4fc0919dc5d81/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d333330333926666f726d61743d706e6726636f6c6f723d303030303030" align="left" alt="aws" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Express" height ="42px" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg"></a>
 
